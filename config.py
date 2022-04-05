@@ -1,0 +1,4 @@
+
+Token = "5239353766:AAHYqc4Lcg8rrRBtOqdhPNB0vCzUfOcIZ0I"
+
+id = 5054197163
